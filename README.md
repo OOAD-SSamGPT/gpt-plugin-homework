@@ -1,2 +1,10 @@
-# gpt-plugin-prototype
-이 공간은 마구잡이로 연습하는 공간입니당
+# Home Work 정리
+
+
+- HW 1
+
+- HW 2
+
+- HW 3
+
+- HW 4
